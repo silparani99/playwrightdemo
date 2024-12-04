@@ -1,0 +1,71 @@
+https://app.mabl.com/login
+click on below link to get temp business email to login mabl
+https://temp-mail.org/en/
+xovar68761@gianes.com
+Rhutvik1@3
+
+
+opencart registration,marie.clarie@gmail.com/1234
+
+variables created scope is only local not global
+https://www.demoblaze.com/
+launch app>register>login>buy product
+
+function mablJavaScriptStep(mablInputs, callback) {
+  let result = ['John', 'Jane', 'Bob', 'Alice', 'Tom', 'Mary', 'Mark', 'Sarah', 'David', 'Linda'][Math.floor(Math.random() * 10)];
+  callback(result);
+}
+
+mabl web page
+https://app.mabl.com/workspaces
+
+aparnascifi@gmail.com
+https://dashboard.cohere.com/welcome/login
+
+1. Run prompt in English-Command-R,Command-R plus-08-2024
+2. Run prompt in regional language-Command-R,Command-R plus-08-2024
+3. Run prompt with temp close to 0 and 1
+4. Run prompt with seed set
+
+SignUp
+As a user I want to register with username and password,Signup
+As a user I want to register with email and password,Signup
+
+Login
+Product
+As a user I want to search for the desired product,product
+1. Keyword Search
+2. Category or Department Navigation
+3. Filters & Sorting
+4. Voice Search
+5. Related Product Suggestions
+
+Cart
+Purchase
+Order
+
+pip install openai==0.26.5
+python -m pip install --upgrade pip
+pip install gpt-index
+pip install gradio
+pip install cohere
+
+As a user I want to signup with my phone number->Signup
+
+
+https://www.demoblaze.com/-app(QA)
+launch app>register>login>Buy Product
+Test1:Register -static values
+Test2:Login -static values
+Test3:Buy Product- dynamic values
+
+1. asset for green check on successful completing purchase(AI Validation)
+2. asset for successful msg on completing purchase
+
+
+GenAI>Chatbots
+https://demo.opencart.com/
+Write use cases for login functionality(OC_UC.docx)
+Covert the above use cases in to respective Test cases in tabular format(TC_ID, TC_Desc,Test_Steps, Test_Data,Exp_Res.Actual Res,Status, RemarKs)(OC_TC.docx)
+get test automated in Selenium Webdriver in python(Script.docx)
+write usecases for login functionality for website https://demo.opencart.com/
